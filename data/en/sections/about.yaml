@@ -7,55 +7,59 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-# your designation
-designation: Software Engineer
-# your company information
-company:
-  name: Example Co.
-  url: "https://www.example.com"
+# # your designation
+# designation: Software Engineer
+# # your company information
+# company:
+#   name: Example Co.
+#   url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a recent graduate of Douglas College, where I obtained a [Post-Baccalaureate Diploma in Computer Studies and Information Systems](https://www.douglascollege.ca/program/pbdcis). My passion lies in mobile app development, particularly specializing in Java for Android platforms. Additionally, I possess expertise in web development, proficiently working with the MERN stack and Spring Boot framework.
+
+I am actively seeking entry-level opportunities in software development, with a keen interest in mobile application development and web development roles. My dedication to teamwork, proactive approach, innovative thinking, attention to detail, and ability to envision the broader context make me a valuable asset to any project.
+
+Feel free to explore my portfolio to discover more about my projects, skills, and experiences. I look forward to contributing my skills and collaborating with like-minded professionals in the dynamic field of software development.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "nienchiyu@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/Melodieeee"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "http://www.linkedin.com/in/nien-chi-yu"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "#"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
 
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
+# - name: Mastadon
+#   icon: "fab fa-mastodon"
+#   url: "#"
+#   rel: "me noopener"
 
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+# - name: ResearchGate
+#   icon: "fab fa-researchgate"
+#   url: "https://www.researchgate.net/profile/john-doe"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -68,22 +72,22 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: Google Cloud Computing Foundations
+  url: "https://www.cloudskillsboost.google/public_profiles/39f8280a-4cd4-4af9-9576-dcd9e2517925/badges/6604209"
+  badge: "https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Introduction to Generative AI
+  url: "https://www.cloudskillsboost.google/public_profiles/39f8280a-4cd4-4af9-9576-dcd9e2517925/badges/6658405"
+  badge: "https://cdn.qwiklabs.com/g4eID2XevDNSDFfY3wbqLNlWQ6sG8EdyJn0znpZOwH4%3D"
 
 - type: certification
   name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  url: "https://developers.google.com/profile/badges/activity/android/install-android-studio"
+  badge: "https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg"
 
 - type: soft-skill-indicator
-  name: Leadership
+  name: Communication
   percentage: 85
   color: blue
 
@@ -93,7 +97,7 @@ badges:
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Innovation
   percentage: 85
   color: orange
 

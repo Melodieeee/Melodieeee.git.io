@@ -11,39 +11,44 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Java Development
+  logo: /images/sections/skills/java.png
+  summary: "Proficient in Java development. Used for most of the personal projects. Familiar with Android, Spring Boot, JPA, Hibernate, etc."
+  url: "https://www.java.com/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
+- name: Kotlin Development
+  logo: /images/sections/skills/kotlin.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  url: "https://kotlinlang.org/"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Android Development
+  logo: /images/sections/skills/android.jpeg
+  summary: "Experienced in Android development, proficient in writing applications using various tools and frameworks including Jetpack Compose, Flutter, and React Native."
+  url: "https://developer.android.com/"
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+# - name: iOS Development
+#   logo: /images/sections/skills/c++.png
+#   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: Web Development
+  logo: /images/sections/skills/web.png
+  summary: "Html, CSS, Bootstrap, Tailwind CSS, JS, React, Node.js, Express.js, Flask, Spring Boot, etc."
+
+- name: Database
+  logo: /images/sections/skills/mysql.png
+  summary: "Skilled in both SQL and NoSQL databases, such as mySQL, microsoft SQL Server, MongoDB and Firebasse, proficient in database design, querying, and management."
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Capable of writing bash/shell scripts."
 
 - name: Git
   logo: /images/sections/skills/git.png
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Cloud Computing
+  logo: /images/sections/skills/cloud.png
+  summary: "Experienced in working with major cloud platforms such as Google Cloud Platform (GCP) and Amazon Web Services (AWS)"
+
+

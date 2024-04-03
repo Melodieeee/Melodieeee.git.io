@@ -12,23 +12,26 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
-- name: Academic
-  filter: "academic"
+- name: School
+  filter: "school"
+- name: Personal
+  filter: "personal"
+- name: Bussiness
+  filter: "bussiness"
 - name: Hobby
   filter: "hobby"
 
+
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
+- name: Spring Boot
+  logo: /images/sections/projects/springboot.png
   role: Contributor
   timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  repo:  # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  summary: A Spring Boot project has RESTful API and CURD functions.
+  tags: ["school"]
 
 - name: Tensorflow
   logo: /images/sections/projects/tensorflow.png

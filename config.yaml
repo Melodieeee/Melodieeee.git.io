@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://Melodieeee.github.io
 
 languageCode: en-us
-title: "John's Blog"
+title: "Nien-Chi Melody Yu"
 
 # Use Hugo modules to add theme
 module:
@@ -23,8 +23,8 @@ languages:
   en:
     languageName: English
     weight: 1
-  bn:
-    languageName: বাংলা
+  cn:
+    languageName: 中文
     weight: 3
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
@@ -54,17 +54,17 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/background.jpeg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    main: /images/site/logoBig.png
+    inverted: /images/site/fav.png
+    favicon: /images/site/fav.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/Melodieeee/personalSite
   # Default branch of your Git repo
   gitBranch: main
 
@@ -85,7 +85,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
@@ -102,7 +102,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
@@ -140,7 +140,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       services:
         # Google Analytics
         google:
@@ -287,4 +287,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false
